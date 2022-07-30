@@ -200,7 +200,7 @@ h6 {
 .nav-menu a span,
 .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #a4b7c9;
 }
 
 @media (min-width: 992px) {
@@ -213,7 +213,7 @@ h6 {
   .nav-menu a span,
   .nav-menu a:focus span {
     display: none;
-    color: #fff;
+    color: rgb(165, 122, 227);
   }
 }
 
@@ -252,7 +252,7 @@ h6 {
   top: 10px;
   z-index: 9998;
   border: 0;
-  background: none;
+  background: rgb(253, 253, 255);
   font-size: 28px;
   transition: all 0.4s;
   outline: none !important;
@@ -263,7 +263,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #eaebed;
 }
 
 .mobile-nav-active {
@@ -275,8 +275,8 @@ h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle {
-  color: #fff;
-  background-color: #0563bb;
+  color: rgb(248, 245, 247);
+  background-color: #4991d8;
 }
 
 /*--------------------------------------------------------------
